@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Artificial Inteligence
 - 📫 How to reach me: contatojoaovctor@gmail.com
 - 😄 Pronouns: Ele
-- 🖥 Python, C++ for arduino
+- 🖥 Python, C++
